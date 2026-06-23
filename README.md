@@ -114,6 +114,8 @@ call-center-dashboard/
 - **Call-Center channel** handles the largest share (32.3%) of contacts
 
 ---
+screenshot- https://github.com/shamshudzoha2002-prog/power-bi-Call-center-Dashboard/blob/main/Dashboard%20HOME.png
+https://github.com/shamshudzoha2002-prog/power-bi-Call-center-Dashboard/blob/main/Dashboard%20GRID.png
 
 ## 📄 License
 
