@@ -114,7 +114,9 @@ call-center-dashboard/
 - **Call-Center channel** handles the largest share (32.3%) of contacts
 
 ---
-Dashboard look like - ![Dashboard Screenshot] (https://github.com/shamshudzoha2002-prog/power-bi-Call-center-Dashboard/blob/main/Dashboard%20HOME.png)
+Dashboard look like - <img width="1290" height="733" alt="Dashboard GRID" src="https://github.com/user-attachments/assets/190ab4c3-a828-4619-9edb-5a12cc6824e8" />
+<img width="1291" height="731" alt="Dashboard HOME" src="https://github.com/user-attachments/assets/b88730ea-be32-4734-a22f-b5808a818f1b" />
+
 
 
 ## 📄 License
