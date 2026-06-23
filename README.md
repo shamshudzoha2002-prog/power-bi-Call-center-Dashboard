@@ -1,9 +1,11 @@
 📞 Call Center Dashboard — Power BI
 
-A Power BI dashboard providing comprehensive insights into call center operations, including call volumes, agent performance, sentiment analysis, and SLA compliance.
+A Power BI dashboard providing comprehensive insights into call center operations, including call volumes, agent performance, sentiment analysis, and SLA compliance
 
-Show Image
-Show Image
+ 
+![Dashboard Preview](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Data Period](https://img.shields.io/badge/Data%20Period-October%202020-blue?style=flat)
+ 
 
 ## 📊 Dashboard Overview
 
